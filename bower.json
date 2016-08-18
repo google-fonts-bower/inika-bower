@@ -1,0 +1,17 @@
+{
+    "name": "inika-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Constanza Artigas"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/inika-bower.git"
+    },
+    "description": "Inika font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
